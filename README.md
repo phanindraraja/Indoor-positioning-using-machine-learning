@@ -4,7 +4,7 @@ An indoor positioning system model was developed using Bluetooth Low Energy. Mac
 
 Refer Project report for detailed description
 
-## Getting started
+## Usage
 
 Hex_code.hex is the hex code to be loaded onto the CC2540 beacons.
 
