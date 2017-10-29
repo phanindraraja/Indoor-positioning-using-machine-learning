@@ -1,4 +1,4 @@
-# Indoor-positioning-using-Bluetooth-Low-Energy-and-machine-learning
+# Indoor positioning system using Bluetooth Low Energy and machine learning
 
 An indoor positioning system model was developed using Bluetooth Low Energy. Machine learning is used to predict the location from the training data. Received Signal Strength Indicator (RSSI) was used as a parameter for location estimation. CC2540 beacons were used as BLE modules.
 
