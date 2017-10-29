@@ -2,6 +2,8 @@
 
 An indoor positioning system model was developed using Bluetooth Low Energy. Machine learning is used to predict the location from the training data. Received Signal Strength Indicator (RSSI) was used as a parameter for location estimation. CC2540 beacons were used as BLE modules.
 
+Refer Project report for detailed description
+
 ## Getting started
 
 Hex_code.hex is the hex code to be loaded onto the CC2540 beacons.
